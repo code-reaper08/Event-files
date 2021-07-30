@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: orange;
+}
+div {
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: 100px;
+}
+h4 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+li {
+    color: lightblue;
+}
+a {
+font-size: 20px;
+}
+#yourname {
+    color: yellow;
+}
